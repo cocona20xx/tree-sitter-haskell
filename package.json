@@ -11,7 +11,7 @@
   "author": "Rick Winfrey",
   "license": "MIT",
   "dependencies": {
-    "nan": "^2.12.1",
+    "nan": "^2.18.0",
     "node-gyp": ">=7 <11"
   },
   "devDependencies": {
